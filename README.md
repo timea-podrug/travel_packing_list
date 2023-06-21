@@ -1,5 +1,6 @@
 # Travel Packing List
 
+![travel_packing_list-screenshot](https://github.com/timea-podrug/travel_packing_list/assets/108535463/9cffb5ba-501b-4ed0-bf68-1a5e98077797)
 
 
 Travel Packing List is a web application built with React that helps you manage your travel packing by creating a to-do list of items you need to pack. It provides a user-friendly interface to add, remove, and track the progress of packing your items. The application also displays the percentage of items you have already packed, giving you a visual representation of your progress.
