@@ -10,7 +10,7 @@ Travel Packing List is a web application built with React that helps you manage 
 - Add items to the packing list, specifying the item name and quantity.
 - Remove items from the packing list if they are no longer needed.
 - Cross off items once you have packed them, providing a sense of accomplishment.
-- Dynamic progress bar that displays the percentage of items packed.
+- Displays the percentage of items packed.
 
 ## Installation
 
